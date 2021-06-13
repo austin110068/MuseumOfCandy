@@ -1,6 +1,6 @@
 # MuseumOfCandy
 
-- Responsive web page with help of **BootStrap**.
+- Responsive web page with help of **Bootstrap** 4 framework.
 - This is a project for practicing HTML/CSS.
 
 ## Screenshots
