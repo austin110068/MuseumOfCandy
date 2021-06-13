@@ -1,4 +1,4 @@
-# Museum_Of_Candy
+# MuseumOfCandy
 
 - Responsive web page with help of **BootStrap**.
 - This is a project for practicing HTML/CSS.
